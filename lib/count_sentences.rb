@@ -27,8 +27,7 @@ end
     else
       true 
     end 
-
-  end
+end
 
   def count_sentences
     nos = 0 
